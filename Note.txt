@@ -1,0 +1,3 @@
+npm i morgan -- If any API request is hit, it will lock it and show its details.
+
+npm i dotenv -- If any confidential data in our project so securing it. 

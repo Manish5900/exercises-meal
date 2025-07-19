@@ -1,0 +1,690 @@
+[
+  {
+    "_id": "687b7ae646ac0d4e212ace49",
+    "name": "Grilled Chicken Breast with Quinoa",
+    "category": "protein",
+    "calories": 350,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 8,
+    "fiber": 4,
+    "sugar": 2,
+    "sodium": 280,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop",
+    "ingredients": ["chicken breast", "quinoa", "olive oil", "herbs", "lemon"],
+    "dietary_restrictions": ["gluten-free", "dairy-free"],
+    "workout_recommendations": ["arms", "chest"],
+    "meal_type": "lunch",
+    "prep_time": 25,
+    "difficulty": "easy",
+    "description": "Lean protein with complex carbs perfect for muscle recovery",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.253Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.253Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace4a",
+    "name": "Salmon with Sweet Potato",
+    "category": "protein",
+    "calories": 420,
+    "protein": 38,
+    "carbs": 35,
+    "fat": 18,
+    "fiber": 6,
+    "sugar": 8,
+    "sodium": 320,
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+    "ingredients": [
+      "salmon fillet",
+      "sweet potato",
+      "broccoli",
+      "olive oil",
+      "garlic"
+    ],
+    "dietary_restrictions": ["gluten-free", "dairy-free"],
+    "workout_recommendations": ["legs", "core"],
+    "meal_type": "dinner",
+    "prep_time": 30,
+    "difficulty": "medium",
+    "description": "Omega-3 rich salmon with complex carbohydrates for sustained energy",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace4b",
+    "name": "Greek Yogurt with Berries",
+    "category": "breakfast",
+    "calories": 180,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 5,
+    "fiber": 3,
+    "sugar": 12,
+    "sodium": 80,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "ingredients": ["greek yogurt", "mixed berries", "honey", "almonds"],
+    "dietary_restrictions": ["gluten-free", "vegetarian"],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "breakfast",
+    "prep_time": 5,
+    "difficulty": "easy",
+    "description": "High-protein breakfast with antioxidants for morning energy",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace4c",
+    "name": "Turkey and Avocado Wrap",
+    "category": "lunch",
+    "calories": 380,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 16,
+    "fiber": 5,
+    "sugar": 3,
+    "sodium": 450,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=300&fit=crop",
+    "ingredients": [
+      "turkey breast",
+      "avocado",
+      "whole wheat tortilla",
+      "lettuce",
+      "tomato"
+    ],
+    "dietary_restrictions": ["dairy-free"],
+    "workout_recommendations": ["arms", "chest", "shoulders"],
+    "meal_type": "lunch",
+    "prep_time": 10,
+    "difficulty": "easy",
+    "description": "Lean protein wrap with healthy fats for sustained energy",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace4d",
+    "name": "Oatmeal with Banana and Nuts",
+    "category": "breakfast",
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12,
+    "fiber": 8,
+    "sugar": 18,
+    "sodium": 120,
+    "image": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=400&h=300&fit=crop",
+    "ingredients": ["oats", "banana", "almonds", "cinnamon", "milk"],
+    "dietary_restrictions": ["vegetarian"],
+    "workout_recommendations": ["legs", "core"],
+    "meal_type": "breakfast",
+    "prep_time": 8,
+    "difficulty": "easy",
+    "description": "Complex carbs with potassium for pre-workout energy",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace4e",
+    "name": "Tuna Salad with Mixed Greens",
+    "category": "protein",
+    "calories": 280,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12,
+    "fiber": 4,
+    "sugar": 3,
+    "sodium": 380,
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop",
+    "ingredients": ["tuna", "mixed greens", "cucumber", "olive oil", "lemon"],
+    "dietary_restrictions": ["gluten-free", "dairy-free"],
+    "workout_recommendations": ["arms", "chest", "core"],
+    "meal_type": "lunch",
+    "prep_time": 12,
+    "difficulty": "easy",
+    "description": "High-protein salad perfect for muscle building",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace4f",
+    "name": "Protein Smoothie Bowl",
+    "category": "breakfast",
+    "calories": 290,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 8,
+    "fiber": 6,
+    "sugar": 22,
+    "sodium": 90,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "ingredients": [
+      "protein powder",
+      "frozen berries",
+      "banana",
+      "almond milk",
+      "granola"
+    ],
+    "dietary_restrictions": ["gluten-free", "vegetarian"],
+    "workout_recommendations": ["arms", "chest", "shoulders"],
+    "meal_type": "breakfast",
+    "prep_time": 8,
+    "difficulty": "easy",
+    "description": "Protein-rich smoothie bowl for post-workout recovery",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace50",
+    "name": "Beef Stir Fry with Brown Rice",
+    "category": "protein",
+    "calories": 450,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 18,
+    "fiber": 5,
+    "sugar": 6,
+    "sodium": 520,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop",
+    "ingredients": [
+      "lean beef",
+      "brown rice",
+      "broccoli",
+      "carrots",
+      "soy sauce"
+    ],
+    "dietary_restrictions": ["dairy-free"],
+    "workout_recommendations": ["legs", "arms", "chest"],
+    "meal_type": "dinner",
+    "prep_time": 20,
+    "difficulty": "medium",
+    "description": "Iron-rich beef with complex carbs for muscle growth",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace51",
+    "name": "Egg White Omelette with Spinach",
+    "category": "breakfast",
+    "calories": 180,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 8,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 280,
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400&h=300&fit=crop",
+    "ingredients": ["egg whites", "spinach", "mushrooms", "olive oil", "herbs"],
+    "dietary_restrictions": ["gluten-free", "dairy-free"],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "breakfast",
+    "prep_time": 10,
+    "difficulty": "easy",
+    "description": "Low-calorie, high-protein breakfast for lean muscle",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace52",
+    "name": "Quinoa Buddha Bowl",
+    "category": "vegetarian",
+    "calories": 380,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 16,
+    "fiber": 8,
+    "sugar": 6,
+    "sodium": 320,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "ingredients": ["quinoa", "chickpeas", "avocado", "kale", "sweet potato"],
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "vegetarian",
+      "vegan"
+    ],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "lunch",
+    "prep_time": 25,
+    "difficulty": "medium",
+    "description": "Plant-based protein bowl with complex carbohydrates",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.254Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace53",
+    "name": "Grilled Shrimp with Asparagus",
+    "category": "protein",
+    "calories": 240,
+    "protein": 28,
+    "carbs": 8,
+    "fat": 12,
+    "fiber": 4,
+    "sugar": 3,
+    "sodium": 420,
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+    "ingredients": ["shrimp", "asparagus", "lemon", "garlic", "olive oil"],
+    "dietary_restrictions": ["gluten-free", "dairy-free"],
+    "workout_recommendations": ["arms", "chest", "core"],
+    "meal_type": "dinner",
+    "prep_time": 15,
+    "difficulty": "easy",
+    "description": "Lean protein with fiber-rich vegetables",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace54",
+    "name": "Protein Pancakes",
+    "category": "breakfast",
+    "calories": 320,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 10,
+    "fiber": 4,
+    "sugar": 8,
+    "sodium": 280,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop",
+    "ingredients": ["protein powder", "oats", "banana", "eggs", "almond milk"],
+    "dietary_restrictions": ["dairy-free", "vegetarian"],
+    "workout_recommendations": ["legs", "arms", "chest"],
+    "meal_type": "breakfast",
+    "prep_time": 12,
+    "difficulty": "medium",
+    "description": "High-protein pancakes for muscle building breakfast",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace55",
+    "name": "Tofu Stir Fry",
+    "category": "vegetarian",
+    "calories": 320,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 18,
+    "fiber": 6,
+    "sugar": 8,
+    "sodium": 420,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop",
+    "ingredients": ["tofu", "broccoli", "bell peppers", "soy sauce", "ginger"],
+    "dietary_restrictions": [
+      "gluten-free",
+      "dairy-free",
+      "vegetarian",
+      "vegan"
+    ],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "dinner",
+    "prep_time": 20,
+    "difficulty": "easy",
+    "description": "Plant-based protein stir fry with vegetables",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace56",
+    "name": "Cottage Cheese with Berries",
+    "category": "protein",
+    "calories": 200,
+    "protein": 22,
+    "carbs": 15,
+    "fat": 6,
+    "fiber": 3,
+    "sugar": 12,
+    "sodium": 380,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "ingredients": ["cottage cheese", "mixed berries", "honey", "cinnamon"],
+    "dietary_restrictions": ["gluten-free", "vegetarian"],
+    "workout_recommendations": ["arms", "chest", "shoulders"],
+    "meal_type": "snack",
+    "prep_time": 3,
+    "difficulty": "easy",
+    "description": "Casein protein with antioxidants for muscle recovery",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace57",
+    "name": "Protein Shake with Banana",
+    "category": "protein",
+    "calories": 280,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 6,
+    "fiber": 3,
+    "sugar": 18,
+    "sodium": 120,
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=400&h=300&fit=crop",
+    "ingredients": [
+      "protein powder",
+      "banana",
+      "almond milk",
+      "peanut butter",
+      "honey"
+    ],
+    "dietary_restrictions": ["gluten-free", "dairy-free", "vegetarian"],
+    "workout_recommendations": ["arms", "chest", "shoulders"],
+    "meal_type": "snack",
+    "prep_time": 5,
+    "difficulty": "easy",
+    "description": "Quick protein shake for muscle recovery",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace58",
+    "name": "Grilled Steak with Asparagus",
+    "category": "protein",
+    "calories": 450,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 28,
+    "fiber": 4,
+    "sugar": 3,
+    "sodium": 380,
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop",
+    "ingredients": ["beef steak", "asparagus", "garlic", "olive oil", "herbs"],
+    "dietary_restrictions": ["gluten-free", "dairy-free"],
+    "workout_recommendations": ["legs", "arms", "chest"],
+    "meal_type": "dinner",
+    "prep_time": 20,
+    "difficulty": "medium",
+    "description": "High-quality protein with fiber-rich vegetables",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace59",
+    "name": "Avocado Toast with Eggs",
+    "category": "breakfast",
+    "calories": 320,
+    "protein": 16,
+    "carbs": 25,
+    "fat": 20,
+    "fiber": 6,
+    "sugar": 2,
+    "sodium": 280,
+    "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=400&h=300&fit=crop",
+    "ingredients": ["whole grain bread", "avocado", "eggs", "salt", "pepper"],
+    "dietary_restrictions": ["vegetarian"],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "breakfast",
+    "prep_time": 10,
+    "difficulty": "easy",
+    "description": "Healthy fats with protein for sustained energy",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace5a",
+    "name": "Shrimp Tacos",
+    "category": "seafood",
+    "calories": 400,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 14,
+    "fiber": 6,
+    "sugar": 4,
+    "sodium": 480,
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?w=400&h=300&fit=crop",
+    "ingredients": ["shrimp", "corn tortillas", "cabbage", "lime", "avocado"],
+    "dietary_restrictions": ["dairy-free"],
+    "workout_recommendations": ["legs", "core"],
+    "meal_type": "dinner",
+    "prep_time": 20,
+    "difficulty": "medium",
+    "description": "Fresh tacos with lean seafood protein",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace5b",
+    "name": "Quinoa and Black Bean Bowl",
+    "category": "vegetarian",
+    "calories": 340,
+    "protein": 16,
+    "carbs": 50,
+    "fat": 8,
+    "fiber": 10,
+    "sugar": 5,
+    "sodium": 310,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+    "ingredients": ["quinoa", "black beans", "corn", "tomato", "cilantro"],
+    "dietary_restrictions": ["vegetarian", "vegan", "gluten-free"],
+    "workout_recommendations": ["legs", "core"],
+    "meal_type": "lunch",
+    "prep_time": 20,
+    "difficulty": "easy",
+    "description": "Plant-based bowl for sustained energy",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace5c",
+    "name": "Beef and Broccoli",
+    "category": "protein",
+    "calories": 390,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 16,
+    "fiber": 5,
+    "sugar": 7,
+    "sodium": 480,
+    "image": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?w=400&h=300&fit=crop",
+    "ingredients": ["beef", "broccoli", "soy sauce", "garlic", "rice"],
+    "dietary_restrictions": ["dairy-free"],
+    "workout_recommendations": ["legs", "arms", "chest"],
+    "meal_type": "dinner",
+    "prep_time": 25,
+    "difficulty": "medium",
+    "description": "Classic stir fry for muscle growth",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace5d",
+    "name": "Chickpea Salad",
+    "category": "vegetarian",
+    "calories": 280,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 8,
+    "fiber": 10,
+    "sugar": 6,
+    "sodium": 300,
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?w=400&h=300&fit=crop",
+    "ingredients": ["chickpeas", "cucumber", "tomato", "lemon", "parsley"],
+    "dietary_restrictions": ["vegetarian", "vegan", "gluten-free"],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "lunch",
+    "prep_time": 12,
+    "difficulty": "easy",
+    "description": "Refreshing salad with plant-based protein",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace5e",
+    "name": "Greek Salad",
+    "category": "vegetarian",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 14,
+    "fiber": 5,
+    "sugar": 7,
+    "sodium": 320,
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?w=400&h=300&fit=crop",
+    "ingredients": ["tomato", "cucumber", "feta cheese", "olive oil", "olives"],
+    "dietary_restrictions": ["vegetarian", "gluten-free"],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "lunch",
+    "prep_time": 10,
+    "difficulty": "easy",
+    "description": "Classic salad with Mediterranean flavors",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace5f",
+    "name": "Egg Fried Rice",
+    "category": "lunch",
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 10,
+    "fiber": 4,
+    "sugar": 5,
+    "sodium": 320,
+    "image": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=400&h=300&fit=crop",
+    "ingredients": ["rice", "egg", "peas", "carrots", "soy sauce"],
+    "dietary_restrictions": ["vegetarian"],
+    "workout_recommendations": ["core", "arms", "chest"],
+    "meal_type": "lunch",
+    "prep_time": 15,
+    "difficulty": "easy",
+    "description": "Classic fried rice with eggs and veggies",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  },
+  {
+    "_id": "687b7ae646ac0d4e212ace60",
+    "name": "Pasta Primavera",
+    "category": "vegetarian",
+    "calories": 340,
+    "protein": 12,
+    "carbs": 54,
+    "fat": 8,
+    "fiber": 7,
+    "sugar": 8,
+    "sodium": 320,
+    "image": "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?w=400&h=300&fit=crop",
+    "ingredients": ["pasta", "zucchini", "bell pepper", "tomato", "parmesan"],
+    "dietary_restrictions": ["vegetarian"],
+    "workout_recommendations": ["core", "legs"],
+    "meal_type": "dinner",
+    "prep_time": 20,
+    "difficulty": "medium",
+    "description": "Colorful pasta with fresh vegetables",
+    "__v": 0,
+    "createdAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    },
+    "updatedAt": {
+      "$date": "2025-07-19T11:00:54.255Z"
+    }
+  }
+]
